@@ -1,0 +1,22 @@
+export const SliderData = [
+  {
+    image:
+    'https://entrackr.com/wp-content/uploads/2019/10/Hevo-1200x600.jpg'
+  },
+  {
+    image:
+      'https://images.unsplash.com/photo-1593642532973-d31b6557fa68?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80'
+  },
+  {
+    image:
+      'https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80'
+  },
+  {
+    image:
+      'https://images.unsplash.com/photo-1579403124614-197f69d8187b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1900&q=80'
+  },
+  {
+    image:
+      'https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/$wpsize_!medium_large!,w_768,h_432,c_scale/v1617968277/hevo-blog/Feature-Image-for-Module-6.png'
+  }
+];
