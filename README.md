@@ -1,1 +1,1 @@
-# react-image-carousel
+# hevo-slider
